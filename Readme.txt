@@ -4,6 +4,7 @@
 	- uuid (for id generating)
 	- validator (for email validation)
 	- semantic-ui (for style)
+	- npm i cors (for crs policy) req. and response cross sharing..
 
 	2. How to run app:
 	a. install node.js
